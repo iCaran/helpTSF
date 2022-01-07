@@ -14,3 +14,5 @@ Task-3 under Web and Android Development in GRIP TSF internship
 - and add the details you want to like in there
 - in the Payment Receipts menu in the Payment Page creation page, make sure to check the option "send receipts autonatically"
 - Save the page and copy the newly created page url
+- replace the link in line 40 of [index.html](https://github.com/iCaran/helpTSF/blob/main/index.html) with your link
+Done
