@@ -6,6 +6,11 @@ Task-3 under Web and Android Development in GRIP TSF internship
 - all there is, is a button that just links to your razorpay payment page
 - the razorpay payments page does everything
 
+# Details
+- hosted right here on github: https://icaran.github.io/helpTSF/
+- POC video: https://www.youtube.com/watch?v=9v72qsxzdQ0
+- my submission for TSF JAN2022: https://www.linkedin.com/posts/karanpratapshaw_youtube-activity-6885273666247118848-n3wO
+
 ## Build yourself
 - register for a razor pay account
 - do NOT do KYC, just keep it a dummy account with fake money, it's good enougb for learning purposes
